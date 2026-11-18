@@ -1,0 +1,6 @@
+# kainan0880jwr.github.io のルート。サイトの本体は /fx-trade-journal/ にある。
+# robots.txt はホストのルートにしか置けないので、このリポジトリ（kainan0880jwr.github.io）から配信する。
+User-agent: *
+Allow: /
+
+Sitemap: https://kainan0880jwr.github.io/fx-trade-journal/sitemap.xml

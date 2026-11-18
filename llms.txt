@@ -1,0 +1,12 @@
+# FXトレードログ (FX Trade Journal)
+
+> iPhone・iPad向けのFXトレード日記・記録アプリ。最短3タップで記録し、勝率・pips・プロフィットファクターを自動で集計する。MT4/MT5の取引履歴（パソコン版のレポート（HTML）・CSV）を取り込める。記録は端末の中に暗号化して保存し、会員登録は不要。
+
+## 詳しい情報
+
+- [llms.txt（全文）](https://kainan0880jwr.github.io/fx-trade-journal/llms.txt): 機能・料金・無料でできること・プライバシー・主要ページの一覧
+- [トップページ（日本語）](https://kainan0880jwr.github.io/fx-trade-journal/)
+- [English](https://kainan0880jwr.github.io/fx-trade-journal/index-en.html)
+- [App Store](https://apps.apple.com/app/id6786188634)
+
+本アプリは記録・分析ツールであり、投資助言や特定の金融商品の勧誘を目的としたものではない。
